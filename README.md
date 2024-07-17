@@ -13,7 +13,7 @@ University of North Carolina at Chapel Hill | B.S. in Computer Science & B.S. in
 -	Used jar and artifacts to create an application for users to interact with the program
 #### 
 #### Movie Data Analysis and Travel Data Analysis (Jun 2024 - Jul 2024)
-- -	Cleaned up travel data and movie data using Jupyter Notebooks and Python Pandas library
+- Cleaned up travel data and movie data using Jupyter Notebooks and Python Pandas library
 -	Performed data modeling using Pandas
 -	Created visualizations and graphs of data using Seaborn and Matplotlib 
 #### 
