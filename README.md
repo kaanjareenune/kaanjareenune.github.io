@@ -1,7 +1,7 @@
 # Data Scientist
 
 ## Education
-University of North Carolina at Chapel Hill | B.S. in Computer Science & B.S. in Data Science (3.93/4.0) August 2023 - May 2027
+University of North Carolina at Chapel Hill | B.S. in Computer Science & B.S. in Data Science (3.93/4.0) | August 2023 - May 2027
 - Relevant Coursework: Data Structures and Algorithms, Discrete Math, Linear Algebra, Calculus 1, 2 & 3
 - Certifications: Microsoft Word/Excel/Power Point Specialist
 
