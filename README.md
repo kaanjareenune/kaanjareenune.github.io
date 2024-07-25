@@ -13,7 +13,7 @@ University of North Carolina at Chapel Hill | B.S. in Computer Science & B.S. in
   - Spearheaded initiatives to provide better and more reliable communication of data analytics to stakeholders.
   - Conducted descriptive statistical analysis to summarize stock performance and identifying trends. 
 
-#### XML Utility June 2024 – June 2024
+#### XML Utility (June 2024 – June 2024)
   - Developed XML Tool in Python and Java, to create multiple xml documents from a given xml document based on the defined business rules
   - Parsed the XML document using Python’s ElementTree, Java’s JAXB libraries and created in memory objects.
   - Developed User Interface to enter the XML file location and to define the split business rules
@@ -51,4 +51,11 @@ University of North Carolina at Chapel Hill | B.S. in Computer Science & B.S. in
 #### Research Intern – Duke University (May 2022 - August 2022)
   - Researched on air pollution, analyzed raw data using Python and R, and generated statistical models on air pollution.
   - Developed a method to estimate an accurate baseline 2017 PM 2.5 concentration for the air pollution reduction
+
+## Skills
+- Programming & Database: Python; Java; JavaScript; SQL; R; SAS; Swift; HTML5; CSS3; Node.js; Mongo DB; PostgreSQL
+- Tools & Frameworks: Git; GitHub; Linux; Flask; Tkinter; REST API; Agile Methodology; Scrum; Kanban; IntelliJ IDEA
+- Data Analysis and Visualization: Jupyter; Pandas; NumPy; Matplotlib; Power BI; PyPDF2; Streamlit; Microsoft Azure,
+- Machine Learning: Scikit-Learn; Pytorch; Apache Spark
+- Problem Solving, Statistical Analysis, Data Mining, Data Cleaning & transformation, Linear Regression
 
