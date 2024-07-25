@@ -30,7 +30,7 @@ University of North Carolina at Chapel Hill | B.S. in Computer Science & B.S. in
   - Implemented error handling mechanisms to handle exceptions gracefully and ensure uninterrupted data retrieval.
 
 
-### Work Experience
+## Work Experience
 #### Undergraduate Research Assistant - UNC Chapel Hill (Jan 2024 - Apr 2024)
   - Developed an AI tool using Python and Java to translate pdf documents from English to various world languages.
   - Designed and Implemented PDF handling and translation functionalities using PyPDF, and user interface using Tkinter.
