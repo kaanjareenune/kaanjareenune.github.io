@@ -6,7 +6,13 @@ University of North Carolina at Chapel Hill | B.S. in Computer Science & B.S. in
 - Certifications: Microsoft Word/Excel/Power Point Specialist
 
 ## Projects
-#### Exploratory Data Analysis (Mar 2024 - May 2024)
+#### Weather Forecast App	(Jul 2024 - Aug 2024)
+  -	Designed and developed a Weather Forecast App using SwiftUI, providing real-time weather updates and forecasts
+  -	Implemented location-based weather data retrieval using Core Location and integrated with a weather API for accurate information
+  -	Created a responsive and intuitive user interface with compatibility across iPhone and iPad devices
+  -	Displayed hourly and daily forecasts, including temperature, humidity, and precipitation data, with a focus on user-friendly data visualization
+
+#### Exploratory Data Analysis (Mar 2024 - Jul 2024)
   - Processed and analyzed historical stock data including price and volume metrics, travel data and movie data using python and pandas.
   - Conducted data cleaning and preprocessing tasks on large datasets
   - Created time series plots, candlestick charts, and moving averages visualizations using Power BI, Matplotlib and Plotly.
